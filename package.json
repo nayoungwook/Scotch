@@ -16,6 +16,7 @@
     "@types/lodash.clonedeep": "^4.5.9",
     "@types/matter-js": "^0.19.6",
     "lodash": "^4.17.21",
-    "tsc": "^2.0.4"
+    "tsc": "^2.0.4",
+    "typescript": "^5.4.5"
   }
 }
